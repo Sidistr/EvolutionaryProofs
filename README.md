@@ -5,7 +5,7 @@
 [![Version](https://img.shields.io/badge/version-v2.2-blue.svg)]()
 [![Paper License: CC BY 4.0](https://img.shields.io/badge/Paper%20License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Repo License: MIT](https://img.shields.io/badge/Repo%20License-MIT-green.svg)](./LICENSE)
-[![DOI](https://doi.org/10.5281/zenodo.24383738))
+[![DOI](https://img.shields.io/badge/Zenodo-10.5281%2Fzenodo.[<ZENODO_DOI>](https://doi.org/10.5281/zenodo.24383738)-0A66C2.svg)](https://doi.org/10.5281/zenodo.[<ZENODO_DOI>](https://doi.org/10.5281/zenodo.24383738))
 
 > **Scope & Positioning:** This repository hosts a **conceptual position paper and architectural blueprint**—not a production library, empirical benchmark, or mechanized security proof. Its purpose is to formalize a coherent threat model, expose explicit architectural boundaries (*Schranke*), and invite critical peer feedback from cryptography and systems security researchers.
 
